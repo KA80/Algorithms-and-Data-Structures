@@ -8,4 +8,4 @@
 *[D - Количество инверсий последовательнсти](https://imcs.dvfu.ru/cats/static/problem_text-cpid-3190594.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)
 *[E - Bucket sort (исправленная)](https://imcs.dvfu.ru/cats/static/problem_text-cpid-3190598.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)
 *[F - Фонари](https://imcs.dvfu.ru/cats/static/problem_text-cpid-3190600.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)
-*[G - Большой линейный коллайдер](G - Большой линейный коллайдер)
+*[G - Большой линейный коллайдер](https://imcs.dvfu.ru/cats/static/problem_text-cpid-3190601.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)
