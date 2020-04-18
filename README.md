@@ -2,7 +2,7 @@
 
 
  ### TASKS: 
- * ####SORTS
+ * SORTS
  * * [A - Square sort](https://imcs.dvfu.ru/cats/static/problem_text-cpid-3190585.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy93)
  * * [B - Lin-log sort 2](https://imcs.dvfu.ru/cats/static/problem_text-cpid-3190584.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)
  * * [C - k-я порядковая статистика](https://imcs.dvfu.ru/cats/static/problem_text-cpid-3190586.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)
